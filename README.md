@@ -1,2 +1,11 @@
 # nakarov
-This is just a personal experiment and learning how malicious code are injected into Portable Executable (PE) file. The two methods of code injection in this tool are injecting a new section into the PE or simply injecting code into existing code caves within the PE. 
+This is just a personal experiment and learning how malicious code are injected into Portable Executable (PE) file. 
+
+The two methods of code injection that are used in this tool are:
+- Injecting a new section into the PE
+- Injecting code into existing code caves within the PE
+
+Things to work on:
+- Research on how to avoid antiviruses 
+- Further polish up the tool's interface
+- Further polish up the tool's code 
